@@ -139,29 +139,37 @@
       <option name="project" value="LOCAL" />
       <updated>1600975228936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added create mapIntent">
+      <created>1600975871261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600975871261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added on option selected in main" />
-    <option name="LAST_COMMIT_MESSAGE" value="added on option selected in main" />
+    <MESSAGE value="added create mapIntent" />
+    <option name="LAST_COMMIT_MESSAGE" value="added create mapIntent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1600975121575">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1600975121575" />
-    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1600975224254">
+    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1600975868695">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1600975224254" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1600975240373">
+    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1600975868695" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1600975883079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1600975240373" />
-    <state width="429" height="191" key="javadoc.popup.new" timestamp="1600975807709">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1600975883079" />
+    <state width="429" height="112" key="javadoc.popup.new" timestamp="1600976112530">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="429" height="191" key="javadoc.popup.new/0.0.1366.738@0.0.1366.738" timestamp="1600975807709" />
+    <state width="429" height="112" key="javadoc.popup.new/0.0.1366.738@0.0.1366.738" timestamp="1600976112530" />
   </component>
 </project>
